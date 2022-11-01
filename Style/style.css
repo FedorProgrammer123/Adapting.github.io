@@ -1,0 +1,30 @@
+p{
+    color:aqua;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+}
+img{
+    width: 412px;
+    height: 914px;
+    border: 10px solid silver;
+}
+.ssilka1:hover,.ssilka2:hover{
+    color: blueviolet;
+    font-size: 30px;
+    text-decoration: none;
+}
+#usually{
+    background-color: chartreuse;
+}
+.box1{
+    width: 412px;
+    height: 914px;
+    background: url(../3.jpg);
+}
